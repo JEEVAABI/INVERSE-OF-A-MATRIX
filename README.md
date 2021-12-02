@@ -25,7 +25,7 @@ values=np.linalg.inv(a)
 print(values)
 ```
 ## Output:
-![output 1](frg.png)
+![output 1](juy.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
